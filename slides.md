@@ -19,7 +19,6 @@ info: |
 # persist drawings in exports and build
 drawings:
   persist: false
-aspectRatio: '9/16'
 ---
 
 # Welcome to Slidev
